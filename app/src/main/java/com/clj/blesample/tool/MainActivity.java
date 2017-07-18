@@ -23,14 +23,13 @@ import com.clj.blesample.tool.scan.NamesScanActivity;
 
 
 /**
- * 可以作为测试工具
  * android ble 扫描端
  * 1.权限
  * 2.开启蓝牙
  * 3.扫描
  * 4.连接
  * 5.断开
- *
+ * 可以作为测试工具
  */
 public class MainActivity extends AppCompatActivity {
 
